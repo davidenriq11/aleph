@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:400,700');
+
+@media screen and (min-aspect-ratio: 1/1) {
+  .contenedor {
+    margin: 0 20% !important;
+  }
+}
+
+
+:root {
+  --fuente: 'Ubuntu', sans-serif;
+  --morado:  rgb(150, 43, 251);
+}
+
+body {
+  background-color: #1a1a1a;
+}
+
+.contenedor {
+  margin: 0 10%;
+}
+
+div.imagen-bendita {
+  margin: auto;
+  width: 100%;
+  color: white;
+  text-align: center;
+}
+
+td {
+  width: 1px;
+  height: 1px;
+  padding: 0;
+}
+
+table {
+  border-collapse: collapse;
+  margin: auto;
+}
+
+.boton {
+  border: none;
+  background: linear-gradient(90deg, var(--morado),  rgba(150, 43, 251, .6));
+  font-size: small;
+  cursor: pointer;
+  padding: .2em 0;
+  font-family: var(--fuente);
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-variant: small-caps;
+  margin-left: 10%;
+}
+
+.boton:hover {
+  opacity: .5;
+}
+
+.boton:focus {
+  outline: none;
+}
+
+.boton_div {
+  margin: auto;
+  text-align: left;
+  margin-top: 10px;
+}
+
+.texto {
+  font-family: var(--fuente);
+}
+
+div.texto > h1 {
+  letter-spacing: 2px;
+  margin-bottom: 0;
+}
+
+div.texto > h1 > span {
+  background: -webkit-linear-gradient(1deg, var(--morado),  rgba(150, 43, 251, .6));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+ div.texto > p {
+  color: white;
+  font-weight: 300;
+  white-space: pre-wrap;
+  padding-top: 1em;
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+  -o-font-smoothing: antialiased;
+  line-height: 1.16;
+}
+
+.autor {
+  margin-top: 0;
+}
+
+.contenido {
+  border-top: solid 1px var(--morado);
+}
+
+div.texto > p > span {
+  background-color: rgb(54, 7, 45);
+}
+
+div.texto p > a {
+  color: inherit;
+}
+
+div.texto p > ul  {
+  color: inherit;
+}
