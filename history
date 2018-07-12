@@ -1,0 +1,39 @@
+27 may
+¡Hola, Teodora!
+
+Gracias por dejarme publicar mi proyectito en tu página, me alegra mucho.
+
+Te comparto la carpeta con los archivos y algunas indicaciones de uso:
+
+1. El tamaño de las imágenes random se puede controlar cambiando el valor de la línea 1 del javascript, ese valor define la altura de la imágen en pixeles. Si la imágen es muy grande, el tiempo de ejecución es mayor, yo recomiendo dejarlo entre 300 y 400.
+ 
+
+    let height = 300;
+
+
+2. Las líneas 30 a 37 del archivo html son opcionales, si quieres puedes quitarlas, yo preferiría que no pero como veas
+
+3. Utilicé rutas relativas para los archivos .js y .css, te recomiendo poner todo en la misma carpeta o poner la ruta absoluta si cambias los archivos de carpetas.
+
+        <script type="text/javascript" src="./js/main.js"></script>
+
+
+¡Gracias de nuevo por querer publicarlo, avísame si hay problemas con los archivos. Saludos hasta tu nueva atmósfera y que los Dioses del Destino te acompañen!
+
+acá lo bajas:
+
+
+---
+
+7 jun
+Davíd!
+
+Cómo estás. Muchísimas gracias por mandarme esto, me parece super interesante el proyecto. La verdad me encanta el concepto. Y perdón por tardar tanto en responder, he estado viajando un chingo y no he estado viendo mi compu. 
+
+Me pregunto si estarías dispuesto a jugar con el proyecto un poco más antes de publicar? También para no publicar la mera cosa que publicaste ya en Migala sino algo parecido pero nuevo de alguna manera. Me encantaría trabajar contigo para cortar la cantidad de explicación y jugar mas con lo físico de la página -- o sea, para hacerlo menos un ensayo, y más un poema. De hecho, normalmente digo que no se puede incluir explicaciones a menos si sean escondidas de alguna manera -- para que lxs usuarixs aprender de la obra misma. 
+
+Por ejemplo. En vez de ese texto completo, frases tal como "si al ver un diario, o la televisión, vemos imágenes formalmente tan reales como las que proyecta este Aleph, entonces, ¿qué imágenes, qué videos son reales?" y " quizás sea la única maniobra para eludir la superficialidad del ser posmoderno" puedan aparecer cuando el/la usuarix haga x y o z (cuando hagen clic en una foto/palabra que agregues o cuando se desplacen por ejemplo)... O, en vez de un button que dice explícitamente "generar otra imagen," podría aparecer una nueva imagen nada mas cuando hagan clic en la imagen... cosas así... 
+
+Pero si no quieres cambiar nada o experimentar nada entiendo, nada más avísame... Quiero tanto publicar algo que hiciste tú la verdad, espero que funcione algo!
+
+Fuerte abrazo, 
